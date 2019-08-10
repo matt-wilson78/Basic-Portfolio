@@ -21,7 +21,7 @@ body {
 
 .name {
     color: white;
-    background: #4aaaa5;
+    background: #bb0000;
     padding: 14.5px;
     margin-bottom: 20px;
     width: 200px;
@@ -31,7 +31,7 @@ body {
     text-align: center;
     top: 0px;
     left: 290px;
-    border: 1px #4aaaa5;
+    border: 1px #bb0000;
     border-radius: 8px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -72,7 +72,7 @@ p {
 
 .sectionTitle {
     font-size: 32px;
-    color: #4aaaa5;
+    color: #bb0000;
     padding: 10px;
     margin-left: -10px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -96,7 +96,7 @@ p {
     bottom: 0;
     width: 100%;
     text-align: center;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #bb0000;
     z-index: 3;
 }
 
@@ -124,7 +124,7 @@ p {
 .label {
     padding: 15px;
     text-align: center;
-    background: #4aaaa5;
+    background: #bb0000;
     color: white;
     width: 275px;
     height: auto;
@@ -211,8 +211,8 @@ textarea {
 input[type=submit] {
     width: 100px;
     height: 40px;
-    background: #4aaaa5;
-    border: 1px solid #4aaaa5;
+    background: #bb0000;
+    border: 1px solid #bb0000;
     border-radius: 8px;
     color: white;
 }
