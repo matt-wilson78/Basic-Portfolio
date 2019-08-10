@@ -20,7 +20,7 @@ body {
     color: #777777;
 }
 
-.name {
+.name, .contactPage {
     color: white;
     background: #4aaaa5;
     padding: 14.5px;
