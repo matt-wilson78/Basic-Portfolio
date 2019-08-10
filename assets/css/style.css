@@ -53,6 +53,17 @@ body {
     position: relative;
 }
 
+.portfolioWrapper {
+    width: 960px;
+    height: 650px;
+    background: white;
+    margin: auto;
+    border: 1px white;
+    border-radius: 8px;
+    padding: 20px;
+    position: relative;
+}
+
 p {
     line-height: 150%;
     margin-top: 20px;
@@ -120,35 +131,34 @@ p {
 }
 
 #hangman {
-    position: absolute;
-    left: 0;
+    position: relative;
+    float: left;
     z-index: 1;
 }
 
 #rpgGame {
-    position: absolute;
-    left: 320px;
+    position: relative;
+    float: left;
     z-index: 1;
 }
 
 #trivia {
-    position: absolute;
-    left: 0;
-    top: 280px;
+    clear: both;
+    position: relative;
+    float: left;
     z-index: 1;
 }
 
 #rutgers {
-    position: absolute;
-    left: 320px;
-    top: 280px;
+    position: relative;
+    float: left;
     z-index: 1;
 }
 
 #rock {
-    position: absolute;
-    left: 0;
-    top: 470px;
+    clear: both;
+    position: relative;
+    float: left;
     z-index: 1;
 }
 
